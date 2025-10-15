@@ -91,7 +91,7 @@ html {
 .hero-logo {
     max-width: 280px;
     height: auto;
-    filter: brightness(0) invert(1);
+    filter: brightness(-1) invert(1);
     animation: fadeInDown 1s ease;
 }
 
